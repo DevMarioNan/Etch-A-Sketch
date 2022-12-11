@@ -55,6 +55,13 @@ h1{
     height: 45px;
     font-weight: bold;
     border-radius: 10px;
+    transition: .15s ease-in;
+    cursor: pointer;
+}
+
+.btns button:hover{
+    background-color: black;
+    color:white;
 }
 
 .container{
